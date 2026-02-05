@@ -11,7 +11,7 @@ import SwiftUI
 struct WageCalculatorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WageCalculatorView()
         }
     }
 }
